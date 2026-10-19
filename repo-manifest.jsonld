@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-semantic-release/python-semantic-release/commit/60de8fcacea7fd5177f34368490677be5f098995",
       "git:hexsha": "60de8fcacea7fd5177f34368490677be5f098995",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-semantic-release/python-semantic-release/commit/30d5f4376dc540548f68da921bd87ae7b21e7996",
