@@ -1,0 +1,11 @@
+{
+  "org": "python-semantic-release",
+  "repo": "python-semantic-release",
+  "versions": [
+    {
+      "commit": "60de8fcacea7fd5177f34368490677be5f098995",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:13:32.039559+00:00"
+    }
+  ]
+}
